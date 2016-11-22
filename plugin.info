@@ -1,0 +1,9 @@
+{
+    "title": "$:/plugins/micimize/structured-journal",
+    "description": "extensible, structured journal",
+    "author": "micimize",
+    "version": "0.0.1",
+    "core-version": ">=5.0.8",
+    "source": "https://github.com/micimize/TW5-structured-journal",
+    "plugin-type": "plugin"
+}

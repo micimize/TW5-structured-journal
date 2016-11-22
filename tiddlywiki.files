@@ -1,0 +1,59 @@
+{
+	"tiddlers": [
+		{
+			"file": "FlexEditText.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/micimize/structured-journal/FlexEditText.js",
+				"module-type": "widget"
+			},
+			"prefix": "",
+			"suffix": ""
+		}, {
+			"file": "TemplatedWidget.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/micimize/structured-journal/TemplatedWidget.js",
+				"module-type": "widget"
+			},
+			"prefix": "",
+			"suffix": ""
+		}, {
+			"file": "InlineEditable.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/micimize/structured-journal/InlineEditable.js",
+				"module-type": "widget"
+			},
+			"prefix": "",
+			"suffix": ""
+		}, {
+			"file": "Experience.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/micimize/structured-journal/Experience.js",
+				"module-type": "widget"
+			},
+			"prefix": "",
+			"suffix": ""
+		}, {
+			"file": "ExperienceList.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/micimize/structured-journal/ExperienceList.js",
+				"module-type": "widget"
+			},
+			"prefix": "",
+			"suffix": ""
+		}, {
+			"file": "TimeInterval.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/micimize/structured-journal/TimeInterval.js",
+				"module-type": "widget"
+			},
+			"prefix": "",
+			"suffix": ""
+		}
+	]
+}

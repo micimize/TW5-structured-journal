@@ -1,0 +1,41 @@
+title: $:/plugins/micimize/structured-journal/styles/time-frame.css
+tags: [[$:/tags/Stylesheet]]
+
+.time-frame {
+  display: inline-block;
+}
+
+.inline-flex-editor {
+  width: auto;
+  display: inline;
+  position: relative;
+}
+.inline-flex-editor .shadow-sizer {
+  width: 80%
+}
+.inline-flex-editor input {
+  width: 100%;
+  position: absolute;
+  left: 0;
+}
+
+/*.time-frame time {
+  padding: 0.25em 0.5em;
+  position: relative;
+}
+
+.time-frame .start {
+    padding-right: 0em;
+}
+
+.time-frame .end {
+    padding-left: 0em;
+}
+
+.time-frame .divider {
+  background: <<colour page-background>>;
+  display: inline-block;
+  padding: 0 0.5em;
+  margin: -0.6em;
+  border-radius: 50%;
+}*/
