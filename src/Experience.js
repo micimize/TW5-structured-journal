@@ -1,6 +1,6 @@
 import yo from 'yo-yo'
 import YoWidget from './YoWidget'
-import timeInterval, { formatInterval, precision } from './timeInterval'
+import timeInterval, { formatInterval, precision } from './TimeInterval'
 import { controlledEditableField as field } from './flexEdit'
 import { editButton } from './buttons'
 
